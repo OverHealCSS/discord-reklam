@@ -1,0 +1,8 @@
+"Phrases"
+{
+		"Again"
+		{
+				"en"		"If you can't copy the link, use the command again."
+				"tr"		"Link'i kopyalayamıyorsan, komutu tekrar kullan."
+		}
+}
