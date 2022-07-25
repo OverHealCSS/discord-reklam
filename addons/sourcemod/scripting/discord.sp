@@ -14,7 +14,7 @@ public Plugin myinfo =
 };
 
 ConVar link;
-bool   again[MAXPLAYERS + 1] = { false };
+bool   again[MAXPLAYERS + 1] = { false, ... };
 
 public void OnPluginStart()
 {
